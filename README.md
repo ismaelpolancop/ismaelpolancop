@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="left">1. Here is a application I developed for shoe store.</h6>
+<h4 align="left">1. Here is a application I developed for shoe store.</h4>
 
 ###
 
@@ -45,6 +45,9 @@
 <div align="left">
   <img height="200" src="https://github.com/ismaelpolancop/isan95.github.io/blob/main/ventas.PNG"  />
 </div>
+
+<h4 align="left">2. Here is a application which simulate social media.</h4>
+<p align="left">[On this application the client asked who could manage roles, inventory, refund and sales](https://github.com/ismaelpolancop/socialnetwork)</p>
 
 ###
 

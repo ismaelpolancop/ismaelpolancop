@@ -47,7 +47,7 @@
 </div>
 
 <h4 align="left">2. Here is a application which simulate social media.</h4>
-<p align="left">[On this application the client asked who could manage roles, inventory, refund and sales](https://github.com/ismaelpolancop/socialnetwork)</p>
+<p align="left">Here is the link with instruction to deploy project https://github.com/ismaelpolancop/socialnetwork</p>
 
 ###
 

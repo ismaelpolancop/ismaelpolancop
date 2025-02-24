@@ -23,7 +23,7 @@
 ###
 
 <div align="left">
-  <img height="180" src="https://github.com/ismaelpolancop/isan95.github.io/blob/main/login.PNG"  />
+  <img height="200" src="https://github.com/ismaelpolancop/isan95.github.io/blob/main/login.PNG"  />
 </div>
 
 ###
@@ -33,7 +33,7 @@
 ###
 
 <div align="left">
-  <img height="180" src="https://github.com/ismaelpolancop/isan95.github.io/blob/main/productos.PNG"  />
+  <img height="200" src="https://github.com/ismaelpolancop/isan95.github.io/blob/main/productos.PNG"  />
 </div>
 
 ###
@@ -43,7 +43,7 @@
 ###
 
 <div align="left">
-  <img height="180" src="https://github.com/ismaelpolancop/isan95.github.io/blob/main/ventas.PNG"  />
+  <img height="200" src="https://github.com/ismaelpolancop/isan95.github.io/blob/main/ventas.PNG"  />
 </div>
 
 ###

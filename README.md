@@ -49,6 +49,9 @@
 <h4 align="left">2. Here is a application which simulate social media.</h4>
 <p align="left">Here is the link with instruction to deploy project https://github.com/ismaelpolancop/socialnetwork</p>
 
+<h4 align="left">2. Here is my AI learning path https://github.com/ismaelpolancop/AI-learning-path.git</h4>
+
+
 ###
 
 <h2 align="left">I code with</h2>

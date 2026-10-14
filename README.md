@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey, I’m Ismael! I’m a Java software developer with 3 years of experience building scalable and maintainable applications within a microservices architecture. I love tackling challenges, whether solving tricky bugs or refactoring code to boost performance. I’m all about best practices like design patterns, and SOLID principles I can design and create databases, and I’m always looking for ways to deliver efficient, high-quality solutions. I use AI tools in my workflow to streamline tasks, spark ideas, and make my code even better. Let’s build something awesome!</p>
+<p align="left">Hey, I’m Ismael! I’m a Java software developer with 5 years of experience building scalable and maintainable applications within a microservices architecture. I love tackling challenges, whether solving tricky bugs or refactoring code to boost performance. I’m all about best practices like design patterns, and SOLID principles I can design and create databases, and I’m always looking for ways to deliver efficient, high-quality solutions. I use AI tools in my workflow to streamline tasks, spark ideas, and make my code even better. Let’s build something awesome!</p>
 
 ###
 
